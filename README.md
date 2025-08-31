@@ -129,3 +129,11 @@ Happy coding! If you want, I can also:
 ## Requirements coverage
 
 - Create a detailed README for this project: Done
+
+
+## Preview 
+
+Wanna see  preview (Click here 👇)
+
+-  [Preview]( https://haseebjaved4212.github.io/Random-Quote-Generator/)
+
